@@ -1,6 +1,6 @@
 # Chatroom-Server
 
-Un mini server réalisé en Node.js, Express.js et Socket.io pour le projet Chatroom disponible à cette adresse : [Chatroom-Server](https://github.com/Pololops/2022-Chatroom)
+Un mini server réalisé en Node.js, Express.js et Socket.io pour le projet Chatroom disponible à cette adresse : [Chatroom](https://github.com/Pololops/2022-Chatroom)
 
 ## Projet Chatroom :
 
