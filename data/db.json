@@ -1,0 +1,14 @@
+{
+	"users": {
+		"foo@test.com": {
+			"password": "foo",
+			"username": "Foo",
+			"color": "#c23616"
+		},
+		"bar@test.com": {
+			"password": "bar",
+			"username": "Bar",
+			"color": "#c23616"
+		}
+	}
+}
